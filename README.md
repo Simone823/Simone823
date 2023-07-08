@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simone Daglio</h1>
+<h1 align="center">Hello 👋, I'm Simone Daglio</h1>
 
 ## :link: Connect with me
 <p align="left">
